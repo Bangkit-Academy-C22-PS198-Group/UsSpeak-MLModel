@@ -1,5 +1,5 @@
 # Machine Learning model for Speech Emotion Recognition
-
+This machine learning model will recognize human emotions based on the tone of speech.
 ## Requirements
   * Python 3 (We use Google Colab)
   * Tensorflow (We use Tensorflow 2.8.2)
